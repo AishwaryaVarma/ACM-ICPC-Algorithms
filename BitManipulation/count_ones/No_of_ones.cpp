@@ -2,6 +2,7 @@
 using namespace std;
 
 int count_one (int n)
+  !!1
     {
         while( n )
         {
